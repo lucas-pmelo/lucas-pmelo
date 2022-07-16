@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-pmelo&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="lucas-pmelo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-pmelo&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="lucas-pmelo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-pmelo&show_icons=true&theme=dracula&title_color=000000&text_color=000000&hide_border=true&locale=en" alt="lucas-pmelo" /></p>
