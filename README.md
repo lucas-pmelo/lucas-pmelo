@@ -13,5 +13,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-pmelo&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="lucas-pmelo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-pmelo&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="lucas-pmelo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-pmelo&theme=dark" alt="lucas-pmelo" /></p>
