@@ -78,15 +78,3 @@
 </a>
 
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-pmelo&show_icons=true&locale=en&layout=compact" alt="lucas-pmelo" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-pmelo&show_icons=true&locale=en" alt="lucas-pmelo" />
-</p>
